@@ -1,0 +1,8 @@
+{
+  "name": "SizeWise",
+  "description": "Calculate lot sizes and position sizes automatically for Forex and Crypto trading pairs based on account balance, stop loss, and risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
